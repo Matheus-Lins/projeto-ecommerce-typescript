@@ -1,6 +1,6 @@
 import { Produto } from "./Produto";
 
-export class Hardware extends Produto {
+export class ProdutoCategoria extends Produto {
 
     private _categoria: string;
 

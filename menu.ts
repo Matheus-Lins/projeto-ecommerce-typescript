@@ -133,7 +133,7 @@ export function sobre(): void{
 console.log("\n*****************************************************");
 console.log("Projeto Desenvolvido por: Matheus Antonio Santos Lins ");
 console.log("Generation Brasil - matheusl@genstudents.org");
-console.log("https://github.com/Matheus-Lins/Projeto-JavaScript");
+console.log("https://github.com/Matheus-Lins/projeto-ecommerce-typescript");
 console.log("*****************************************************");
 }
 
